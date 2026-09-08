@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://401krolloverpearland.com/sitemap.xml
